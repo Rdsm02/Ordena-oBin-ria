@@ -1,2 +1,2 @@
 # BuscaBinaria
-Finalizar algoritmo de busca binária, com a finalidade de otimizar o desempenho da busca.
+Finalizar algoritmo de busca binária, com a proposta de otimizar o desempenho.
